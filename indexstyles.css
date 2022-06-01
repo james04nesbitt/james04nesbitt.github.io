@@ -1,0 +1,48 @@
+
+
+
+.topnav{
+    overflow: hidden;
+    background-color: whitesmoke;
+    margin-left: none;
+}
+.topnav a{
+    float: left;
+    display: block;
+    color:black;
+   
+    padding: none;
+    text-decoration: none;
+}
+
+#about:hover{
+    background-color: blue;
+    color:whitesmoke;
+    color:yellow;
+
+}
+#about{
+    float:right;
+    padding-right: 2%;
+    font-size: 29px;
+    color:red;
+    font-family: 'Courier New', monospace;
+}
+.topnav img{
+    height:30%;
+    width:30%;
+    float: left;
+    
+}
+.intro{
+    height:50em;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 25em;
+    background-image: url("img/wb.webp") 
+    
+}
+.projects{
+    height: 60em;
+    background-color: wheat;
+}

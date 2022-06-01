@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+}
+p{
+    color:blue;
+    font-size: 20px;
+
+
+}
+h1{
+    color: black;
+    font-size: 30px;
+}
+
+p{
+    margin-right:50%;
+}
+img{
+    width:30%;
+    height: 30%;
+}
